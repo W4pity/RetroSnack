@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RetroSnake</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Option</string>
+
+    <string name="top_score">Meilleur Score</string>
+    <string name="your_Score">Score</string>
+    <string name="red">Asticot rouge</string>
+    <string name="blue">Asticot bleu</string>
+    <string name="yellow">Asticot jaune</string>
+    <string name="green">Asticot vert</string>
+    <string name="pink">Asticot rose</string>
+    <string name="setting">Info</string>
+    <string name="back">Retour</string>
+    <string name="play">Jouer</string>
+    <string name="info">Astuce: Votre snake peut anticiper vos tournants, préparez le et il tournera au levé du doigt!</string>
+
+    <string name="About">A propos</string>
+    <string name="AboutText">RetroSnake, application développée par W4pity, actuellement en troisième année d\'ingénieurie informatique. Retrouvez d\'autres applications Android:\n-RetroPacman\n-GPS-Tracer\n\nw4pity@gmail.com </string>
+
+</resources>

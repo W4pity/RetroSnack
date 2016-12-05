@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/w4pity/Documents/projets/AndroidStudioProjects/RetroSnake/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b3e3353c3b788ef16bd1bfeccb3a27024189abd7">
+        <dex dex="/home/w4pity/Documents/projets/AndroidStudioProjects/RetroSnake/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_96000cee95c612da3826ed6cc0face2c601ee1c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/w4pity/Documents/projets/AndroidStudioProjects/RetroSnake/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/w4pity/Documents/projets/AndroidStudioProjects/RetroSnake/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_e10a610c0a8ce25f725a3dac40976e9ec96264b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/w4pity/Documents/projets/AndroidStudioProjects/RetroSnake/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/w4pity/Documents/projets/AndroidStudioProjects/RetroSnake/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_e29d96c88186c3fa204777767e7bba65c666df9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/w4pity/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/w4pity/Documents/projets/AndroidStudioProjects/RetroSnake/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_f66acdc416803544b9a1db413c086f371ee4590f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/w4pity/Documents/projets/AndroidStudioProjects/RetroSnake/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d6175cd22874539e338bff7aa3bb9360c0fa1dc">
+        <dex dex="/home/w4pity/Documents/projets/AndroidStudioProjects/RetroSnake/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1221b8cf322743d37fe74f2cfe6a1cd52c3c594/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/w4pity/Documents/projets/AndroidStudioProjects/RetroSnake/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/w4pity/Documents/projets/AndroidStudioProjects/RetroSnake/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_7e7b763c8456743ed799e8514de7e4d63fd49e44/classes.dex" />
+    </item>
+
+</items>
